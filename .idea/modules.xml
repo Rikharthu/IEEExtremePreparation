@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IEEExtremePreparation.iml" filepath="$PROJECT_DIR$/.idea/modules/IEEExtremePreparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IEEExtremePreparation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IEEExtremePreparation_main.iml" group="IEEExtremePreparation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IEEExtremePreparation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/IEEExtremePreparation_test.iml" group="IEEExtremePreparation" />
+    </modules>
+  </component>
+</project>
